@@ -68,7 +68,6 @@ public class ArrayList<E> implements List<E> {
 
     @Override
     public E remove(int index) {
-        System.out.println("test branch");
         return null;
     }
 
